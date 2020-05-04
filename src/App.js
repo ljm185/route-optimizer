@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <h1>The Schmega Schman Schmex Route Optimizer!</h1>
+      <h1>The Schmega Schman Schmex Route Optimizer</h1>
     </div>
   );
 }
